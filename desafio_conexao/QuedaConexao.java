@@ -11,7 +11,7 @@ Deverá retornar "Queda de Conexao" se houver pelo menos uma velocidade registra
 
 import java.util.Scanner;
 
-public class Main {
+public class QuedaConexao {
 
     // Função para verificar queda de conexão
     public static String verificarQuedaConexao(String[] velocidades) {

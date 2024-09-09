@@ -11,7 +11,7 @@ A saída do programa deve ser a velocidade média de conexão em Mbps. O sistema
 
 import java.util.Scanner;
 
-public class Main {
+public class VelocidadeMedia {
 
     // Função para calcular a velocidade média de conexão de internet
     public static double calcularVelocidadeMedia(String[] velocidades) {
